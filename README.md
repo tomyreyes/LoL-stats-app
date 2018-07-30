@@ -1,4 +1,6 @@
-# LOL Stats-APP
+# Leage of Legends Stats-App
+
+Front-end for: https://github.com/tomyreyes/LoL-Server
 
 ## This is how far I got in 4 hours: 
 
