@@ -1,0 +1,39 @@
+.app {
+	background: url('headset.jpg') center no-repeat;
+	background-size: cover;
+	height: 1400px;
+}
+
+.search{
+	text-align: center;
+	padding-top: 50px
+}
+
+.subtitle {
+	text-align:center;
+	color: #fff;
+	padding-top: 50px;
+}
+
+.matchContainer{
+	display: flex;
+	justify-content: center;
+
+}
+.ui.card {
+	margin: 40px !important;
+}
+.victory {
+	background-color: #2D58FF !important;
+}
+
+.victory h2, li{
+	color: #fff;
+}
+.defeat {
+	background-color:  #ba2025 !important;
+}
+.defeat h2, li{
+	color: #fff;
+}
+
