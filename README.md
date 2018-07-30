@@ -15,3 +15,15 @@
 + Control the API rate limit - libraries out there for this purpose. Currently limits are : 20 requests every 1 seconds, 100 requests every 2 minutes
 + Use Registered API Key once approved
 
+## Usage:
+Clone repository
+
+```
+npm install
+```
+then
+
+```
+npm start
+```
+
